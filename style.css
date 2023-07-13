@@ -1,0 +1,33 @@
+.first{
+    position: fixed;
+    border: 1px solid black;
+}
+.second{
+    position: fixed;
+    margin-left: 200px;
+    border: 1px solid black;
+}
+.third{
+    position: fixed;
+    margin-left: 400px;
+    margin-top: 0px;
+    border: 1px solid black;
+}
+.fourth{
+    position: fixed;
+    margin-left: 0px;
+    margin-top: 250px;
+    border: 1px solid black;
+}
+.fifth{
+    position: fixed;
+    margin-left:200px;
+    margin-top: 250px;
+    border: 1px solid black;
+}
+.sixth{
+    position: fixed;
+    margin-left:400px;
+    margin-top: 250px;
+    border: 1px solid black;
+}
